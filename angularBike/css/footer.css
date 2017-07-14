@@ -1,0 +1,19 @@
+/* contact icon */
+.contactIcon{
+  color: white;
+}
+/* footer text */
+.footerText{
+  display: inline;
+}
+/* contact area */
+#contactArea{
+  background-color: black;
+  height: auto;
+  color: white;
+  margin-top: 50px;
+}
+/* adding padding to top of fa icons */
+.fa{
+  padding-bottom: 20px;
+}

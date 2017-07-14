@@ -1,0 +1,66 @@
+/* main */
+#main{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+/* header container */
+#headerContainer {
+  position: relative;
+}
+/* header text */
+#headerText {
+  position: absolute;
+  top: 100px;
+  left: 16px;
+  right: 16px;
+  font-size: 35px;
+  color: black;
+  background-color:rgba(255,255,255,0.9);
+  padding: 20px
+}
+/* header quote */
+#headerTextQuote{
+  color: grey;
+  padding-top: 10px;
+}
+/* header background image */
+#headerImage {
+  width: 100%;
+  height: 100vh;
+  opacity: 0.9;
+}
+/* black header */
+.header{
+  color: red;
+}
+/* sub info */
+.subInfo{
+  color: black;
+}
+/* get started area */
+.getStartedArea{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* green button */
+.greenBtn{
+  background-color: green;
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+  margin-right: 50px;
+  display: inline-block;
+  margin-top: 20px;
+}
+/* green button on hover and active */
+.greenBtn:hover, .greenBtn:active {
+  color: green;
+  background-color: white;
+  border: 1px solid green;
+  text-decoration: none;
+}/* button container */
+.btnContainer{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 50px;
+}
