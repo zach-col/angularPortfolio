@@ -63,3 +63,20 @@ body{
   color: #fff;
   background-color: grey;
 }
+.homeText{
+  font-size: 25px;
+  text-align: center;
+}
+.black{
+  color: black;
+}
+/* languages */
+.lan {
+  color: black;
+  background-color: #dddddd;
+  display: inline-block;
+  padding: 8px;
+  border-radius: 3px;
+  margin: 2px;
+  margin-bottom: 10px;
+}

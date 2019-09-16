@@ -1,6 +1,7 @@
 .projectImg{
   margin-bottom: 50px;
   box-shadow: 10px 10px 5px #888888;
+  width: 700px;
 }
 .btn-success {
   margin-bottom: 83px;
@@ -47,4 +48,12 @@
 #headerTyping, #headerTyping:hover , #headerTyping:active #headerTyping:focus #headerTyping:visited{
   color: white;
   text-decoration: none;
+}
+
+.homeList li {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.homeList {
+  margin-bottom: 90px;
 }
